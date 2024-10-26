@@ -12,7 +12,7 @@ FootPrint Charts
 - Part 2 https://www.youtube.com/live/-XD7vIORbCw
 - Part 3 https://www.youtube.com/live/6WvMXlCePa0
 
-BookMap - https://bookmap.com/
+BookMap - https://bookmap.com
 
 How to use BookMap - https://www.youtube.com/watch?v=kF1bQmymeZI
 
@@ -33,10 +33,10 @@ Options Gamma, Vanna and Charm Overview - https://www.youtube.com/watch?v=0oJqC9
 
 
 #### Tools
-https://optionsdepth.com/
+https://optionsdepth.com
 
-https://vol.land/
+https://vol.land
 
-https://www.gexbot.com/
+https://www.gexbot.com
 
-https://gflows.app/ (Free, Delayed, Naive)
+https://gflows.app (Free, Delayed, Naive)
