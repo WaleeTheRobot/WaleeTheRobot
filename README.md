@@ -12,6 +12,10 @@ FootPrint Charts
 - Part 2 https://www.youtube.com/live/-XD7vIORbCw
 - Part 3 https://www.youtube.com/live/6WvMXlCePa0
 
+BookMap - https://bookmap.com/
+
+How to use BookMap - https://www.youtube.com/watch?v=kF1bQmymeZI
+
 Economic Calendars - https://www.youtube.com/watch?v=_BqbjDp7u_Y | https://www.forexfactory.com/calendar | https://us.econoday.com/byweek?cust=us | https://www.marketwatch.com/economy-politics/calendar
 
 Fed Calendar - https://www.federalreserve.gov/newsevents/calendar.htm
@@ -24,30 +28,13 @@ Futures Equity Index Roll Dates - https://www.cmegroup.com/trading/equity-index/
 
 Options Gamma, Vanna and Charm Overview - https://www.youtube.com/watch?v=0oJqC9QK-I0
 
-#### Cool Tools
+
+
+#### Tools
 https://optionsdepth.com/
 
 https://vol.land/
 
 https://www.gexbot.com/
 
-Free, Delayed, Naive - https://gflows.app/
-
-
-
-
-
-<!--
-**WaleeTheRobot/WaleeTheRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://gflows.app/ (Free, Delayed, Naive)
