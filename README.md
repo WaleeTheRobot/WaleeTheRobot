@@ -18,6 +18,8 @@ How to use BookMap - https://www.youtube.com/watch?v=kF1bQmymeZI
 
 Economic Calendars - https://www.youtube.com/watch?v=_BqbjDp7u_Y | https://www.forexfactory.com/calendar | https://us.econoday.com/byweek?cust=us | https://www.marketwatch.com/economy-politics/calendar
 
+OPEX Calendar - https://www.marketwatch.com/tools/options-expiration-calendar
+
 Fed Calendar - https://www.federalreserve.gov/newsevents/calendar.htm
 
 FOMC Target Rate Probability - https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html
