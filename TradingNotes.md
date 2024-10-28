@@ -1,1 +1,1 @@
-TODO: Add Trading Notes
+TODO: Add Trading Notes.
