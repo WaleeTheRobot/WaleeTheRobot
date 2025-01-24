@@ -32,6 +32,14 @@ These are the main tools and ideas that I use in my trading.
 
 **Understanding Footprint Charts:** https://www.youtube.com/watch?v=6lRy3QdLciM
 
+### Volume Profile
+
+**Market Depth Insight:**  Understand where the majority of trading activity occurs at specific price levels.
+
+**Key Levels:** Identify high-volume nodes (areas of significant interest) and low-volume nodes (potential support/resistance zones).
+
+**Volume Profile Trading:** https://www.youtube.com/watch?v=vVMJa7dyYWE
+
 ### Options and Their Influence on the Underlying
 
 Even if you don’t trade options, it's important to know that options can influence the underlying price. Understanding this helps you possibly anticipate price movements based on how much options market makers (dealers) are exposed to. Even though this is a high-level overview, these topics are more advanced and you don't need to know them in detail. You just need to basically understand that it can impact the market because the dealer may suppress or amplify the moves based on the dealer exposure.
