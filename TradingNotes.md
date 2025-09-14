@@ -8,14 +8,6 @@ These are the main tools and ideas that I use in my trading.
 
 **Understanding Market Structure for Trading:** https://youtu.be/sgAnVR6RSDg?si=Z8zKjSa3pxBMW84U
 
-### Renko Charts
-
-**Less Noise:** Focus on major price movements by ignoring small fluctuations.
-
-**Clear Trends:** Easily see the overall direction, support, and resistance levels.
-
-**Understanding Renko Charts:** https://www.youtube.com/watch?v=okELBm-h6EE
-
 ### Footprint Charts
 
 **Delta:** Shows whether there's more buying or selling.
