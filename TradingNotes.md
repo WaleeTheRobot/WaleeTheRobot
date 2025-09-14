@@ -158,7 +158,10 @@ The below are probably the best tools if you want to view the options dealer's e
 - https://optionsdepth.com
 - https://vol.land
 - https://gexbot.com
+
+Free
 - https://gflows.app (Free, Delayed, Naive)
+- Bear Trap Discord https://discord.com/invite/beartrap
 
 #### Options Flow
 
