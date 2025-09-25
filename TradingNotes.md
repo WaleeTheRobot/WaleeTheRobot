@@ -163,14 +163,6 @@ Free
 - https://gflows.app (Free, Delayed, Naive)
 - Bear Trap Discord https://discord.com/invite/beartrap
 
-#### Options Flow
-
-These are great tools if you want to view options flow.
-
-- https://tradytics.com
-- https://blackboxstocks.com
-- https://unusualwhales.com
-
 #### OrderBook
 
 BookMap helps visualize the orderbook. I think this can be helpful for more liquid assets.
