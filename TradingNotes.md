@@ -1,4 +1,26 @@
 # Day Trading Opinionated
+## About Me
+
+I build my approach around a mix of **market understanding** and **data-driven validation**:  
+
+- Develop a working knowledge of the concepts below.  
+- Use algorithms to **backtest trading theses** and validate ideas.  
+- Engineer features and apply **machine learning models** to identify the most impactful factors and estimate trading probabilities.  
+
+## A Note on Opinions and Levels
+
+The concepts here - **market structure**, **footprint charts**, **volume profile**, and **options flows** - are all frameworks to help build opinions about market direction.  
+They can give you an edge by showing how other participants may be positioned, but they are **not guarantees**.
+
+Markets are complex, and even the strongest levels or theses can break without warning. Dealer hedging flows shift, economic data surprises, and sentiment can flip quickly.  
+Treat these ideas as tools to **frame probabilities**, not as certainties.
+
+### Stay Flexible
+- Have a thesis, but accept when price action proves it wrong.  
+- Respect that levels fail, sometimes dramatically.  
+- Adapt instead of clinging to a broken opinion.  
+
+In short: **use these frameworks to guide decisions, not to predict with certainty.**
 
 
 ## Understanding Market Structure
